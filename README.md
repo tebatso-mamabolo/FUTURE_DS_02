@@ -25,7 +25,7 @@ The goal of this project is to:
 
 **Key insights**
 
--The Standard subscription plan has the highest churn rate, suggesting that customers in this tier may not be receiving enough value relative to its price. While the Premium plan performs better, the Basic plan shows the lowest churn, indicating that customers at the lower price tier may have clearer expectations or perceive better value for money.
+- The Standard subscription plan has the highest churn rate, suggesting that customers in this tier may not be receiving enough value relative to its price. While the Premium plan performs better, the Basic plan shows the lowest churn, indicating that customers at the lower price tier may have clearer expectations or perceive better value for money.
 - Certain customer regions were more at risk than others, the UK showed a high churn rate.
 - Customers usually stay for about 97 days which is equivalent to about 3 months, so the customers are not sticking around. This suggests that customers are not finding sufficient long term value in the product, leading to quick disengagement.
 - There is no relationship between the customer churn rate and the customer support calls, so, the customer support calls are mostly likely not the reason behind the churning.
