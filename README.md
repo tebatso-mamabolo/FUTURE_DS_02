@@ -37,7 +37,13 @@ The goal of this project is to:
 - Target the UK since it has the highest churn rate with pricing adjustments, tailored retention campaigns, and maybe with some feature adaptations.
 - Encourage at-risk Standard plan users to either downgrade to Basic or upgrade to Premium before they churn.
 
+- 
+
 *This analysis demonstrates how data can be used to:*
+
+
 *- Support data-driven decision making*
+
 *- Improve customer retention strategies*
+
 *- Enhance business performance*
